@@ -1,0 +1,29 @@
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 28px;
+    color: limegreen;
+    text-align: center;
+}
+
+table {
+    width: 600px;
+    margin: 0 auto;
+    border: 2px solid silver;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 2px solid silver;
+    padding: 8px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+th[colspan="4"] {
+    background-color: silver;
+}
+
+div {
+    text-align: center;
+}
