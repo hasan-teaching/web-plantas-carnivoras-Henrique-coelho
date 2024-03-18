@@ -1,0 +1,37 @@
+body {
+    background-image: url("../imagens/fundo.png");
+    background-size: auto;
+    background-repeat: repeat;
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 28px;
+    color: limegreen;
+    text-align: left;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    text-align: justify;
+}
+
+strong {
+    font-style: italic;
+    font-weight: bold;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+h2 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 24px;
+    color: limegreen;
+    text-align: left;
+}
+
+img {
+    border: 4px solid limegreen;
+}
